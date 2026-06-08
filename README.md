@@ -56,6 +56,6 @@ const PRIVACY_POLICY_URL = 'https://smincy.github.io/Baller-policy/privacy.html'
 
 ## 내용 수정 방법
 
-- **문의 이메일**: `privacy.html` 파일에서 `privacy@baller.app` 검색 후 교체
+- **문의 이메일**: `privacy.html` 파일에서 `codehodu@gmail.com` 검색 후 교체
 - **운영자명**: `서비스 운영자` 텍스트 교체
 - **시행일**: `2026년 5월 13일` 검색 후 교체
